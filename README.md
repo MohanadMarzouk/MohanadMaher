@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MohanadMaher
 - 👀 I’m interested in embedded systems and c/c++ projects 
-- 🌱 I’m currently learning and expanding my info on embedded system
 - 💞️ I’m looking to collaborate on embedded system and c/c++ projects
 - 📫 How to reach me:
       mohaned.maher@gmail.com
