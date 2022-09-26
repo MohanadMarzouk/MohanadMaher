@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MohanadMaher
+- 👋 Hi, I’m Mohanad Marzouk
 - I’m interested in embedded systems and c/c++ projects and looking forward to collaborate on embedded system and c/c++ projects
 - How to reach me:
       mohaned.maher@gmail.com
